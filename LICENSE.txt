@@ -1,4 +1,6 @@
-Copyright (c) 2012 John Prince
+Copyright (c) 2012 Brigham Young University
+Potential author list: Dipti Jigar Shah, Jayson Pagaduan, Komal Kedia, Jeff Clegg, Ryan Taylor, James Dalgleish
+advised by: John T. Prince
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
